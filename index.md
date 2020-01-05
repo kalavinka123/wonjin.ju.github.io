@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Application Engineer
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Year goals
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -27,6 +27,12 @@
 
 ---
 
+### PDF portfolio
+
+- [Portfolio 1 : New graduate ](/pdf/sample_presentation.pdf)
+
+
+---
 
 
 
