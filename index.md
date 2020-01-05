@@ -4,36 +4,19 @@
 
 ### Application Engineer
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 1 : Refactoring ranking application](/sample_page)
 
 ---
 
 ### Year goals
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [2020 Goals project](http://example.com/)
 
 ---
 
 ### PDF portfolio
 
 - [Portfolio 1 : New graduate ](/pdf/20190401_JuWonjin_FirstPortfolio.pdf)
-
-
-
-
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
