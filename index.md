@@ -29,10 +29,9 @@
 
 ### PDF portfolio
 
-- [Portfolio 1 : New graduate ](/pdf/sample_presentation.pdf)
+- [Portfolio 1 : New graduate ](/pdf/20190401_JuWonjin_FirstPortfolio.pdf)
 
 
----
 
 
 
