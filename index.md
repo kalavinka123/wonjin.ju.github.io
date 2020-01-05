@@ -10,7 +10,7 @@
 
 ### Year goals
 
-- [2020 Goals project](http://example.com/)
+- [2020 Goals project](/goals/2020.md)
 
 ---
 
