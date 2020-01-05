@@ -11,6 +11,7 @@
 ### Year goals
 
 - [2020 Goals project](/goals/2020.md)
+- <a href="/kalavinka123/wonjin.ju.github.io/blob/master/goals/2020.md">2020 Goals project</a>
 
 ---
 
