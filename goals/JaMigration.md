@@ -13,4 +13,4 @@ Achieve the proficiency in Japanese
 - Complete making a document(book) of 2920 Japanese expression sentences.
 - Record your voice and upload it onto Hellotalk to prove your achievement.
 - Test 2136 Kanji
-- JPT more than 980
+- JLPT N1 180
