@@ -9,7 +9,8 @@ Achieve the proficiency in Japanese
 - Enable to read and write the most frequently used Kanji 2136
 - Converse with native speakers 1 hour at least in a week.
 
-### Desired goals
+### Goals
 - Complete making a document(book) of 2920 Japanese expression sentences.
 - Record your voice and upload it onto Hellotalk to prove your achievement.
 - Test 2136 Kanji
+- JPT more than 980
